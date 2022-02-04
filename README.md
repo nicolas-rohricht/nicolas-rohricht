@@ -1,7 +1,7 @@
 Hi!
 
 My name is Nicolas Michel Rohricht. I'm software developer who works for a Canadian Company as a front end developer while part of the developer team.
-You can reach me by my [personal website](nicolas.dev.br).
+You can reach me by my [personal website](https://nicolas.dev.br).
 
 This site is owned and operated by Nicolas Michel Rohricht - NMR Software LTDA.
 
